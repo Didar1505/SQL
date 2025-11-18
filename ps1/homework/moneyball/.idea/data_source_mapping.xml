@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/657cf27b-8826-4b68-a53a-2736f60e5cc0/console.sql" value="657cf27b-8826-4b68-a53a-2736f60e5cc0" />
+    <file url="file://$PROJECT_DIR$/1.sql" value="657cf27b-8826-4b68-a53a-2736f60e5cc0" />
+    <file url="file://$PROJECT_DIR$/2.sql" value="657cf27b-8826-4b68-a53a-2736f60e5cc0" />
+    <file url="file://$PROJECT_DIR$/3.sql" value="657cf27b-8826-4b68-a53a-2736f60e5cc0" />
+    <file url="file://$PROJECT_DIR$/4.sql" value="657cf27b-8826-4b68-a53a-2736f60e5cc0" />
+    <file url="file://$PROJECT_DIR$/5.sql" value="657cf27b-8826-4b68-a53a-2736f60e5cc0" />
+    <file url="file://$PROJECT_DIR$/6.sql" value="657cf27b-8826-4b68-a53a-2736f60e5cc0" />
+    <file url="file://$PROJECT_DIR$/7.sql" value="657cf27b-8826-4b68-a53a-2736f60e5cc0" />
+    <file url="file://$PROJECT_DIR$/8.sql" value="657cf27b-8826-4b68-a53a-2736f60e5cc0" />
+    <file url="file://$PROJECT_DIR$/9.sql" value="657cf27b-8826-4b68-a53a-2736f60e5cc0" />
+  </component>
+</project>
