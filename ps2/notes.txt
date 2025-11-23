@@ -1,0 +1,3 @@
+https://cs50.harvard.edu/sql/notes/2/
+
+http://31.207.77.216:4004/check?number=1
