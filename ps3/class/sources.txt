@@ -1,0 +1,2 @@
+Notes: https://cs50.harvard.edu/sql/notes/3/
+Tutorial: https://cs50.harvard.edu/sql/weeks/3/
