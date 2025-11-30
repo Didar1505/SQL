@@ -1,0 +1,13 @@
+id,full_name,email,phone,join_date
+1,Alice Johnson,alice@example.com,+1-555-0101,2024-01-10
+2,Bob Smith,bob@example.com,+1-555-0102,2024-01-15
+3,Charlie Lee,charlie@example.com,+1-555-0103,2024-02-01
+4,Diana King,diana@example.com,+1-555-0104,2024-02-10
+5,Eva Muller,eva@example.com,+49-151-0000001,2024-02-20
+6,Farid Khan,farid@example.com,+971-50-1234567,2024-03-05
+7,Grace Li,grace@example.com,+86-13800000000,2024-03-12
+8,Hugo Silva,hugo@example.com,+55-21-99999999,2024-03-25
+9,Irene Novak,irene@example.com,+420-777123456,2024-04-02
+10,Jack Brown,jack@example.com,+1-555-0105,2024-04-10
+11,Kate Wilson,kate@example.com,+1-555-0106,2024-04-20
+12,Leo Martins,leo@example.com,+351-91-2345678,2024-05-01

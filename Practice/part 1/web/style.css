@@ -1,0 +1,27 @@
+table, td, th{
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+td {
+    padding: 3px;
+}
+ul li {
+    list-style: none;
+    padding: 0;
+}
+ul {
+    display: flex;
+    gap: 20px;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    position:sticky;
+    top: 0;
+    background-color: white;
+}
+.diagram {
+    display: flex;
+    justify-content: center;
+}
