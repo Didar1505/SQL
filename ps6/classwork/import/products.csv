@@ -1,0 +1,13 @@
+id,product_name,price,category,in_stock
+1,Smartphone X10,699.99,Electronics,25
+2,Laptop Pro 15,1299.00,Electronics,10
+3,Wireless Headphones,149.50,Electronics,40
+4,E-reader Lite,89.99,Electronics,30
+5,Gaming Mouse,39.90,Electronics,50
+5,Mechanical Keyboard,79.00,Electronics,35
+5,Running Shoes,59.99,Sports,60
+2,Winter Jacket,129.99,Clothing,20
+3,Coffee Maker,49.90,Home,45
+6,Blender Pro,79.90,Home,25
+6,Fantasy Novel Dragon Fire,19.99,Books,100
+12,Cookbook Quick Meals,24.99,Books,80
